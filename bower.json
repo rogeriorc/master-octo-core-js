@@ -1,8 +1,8 @@
 {
   "name": "master-octo-core-js",
+  "version": "0.0.1-SNAPSHOT",
   "license": "MIT",
   "main": "./master-octo-core.js",
   "ignore": [],
-  "dependencies": {},
-  "version": "0.0.1-SNAPSHOT"
+  "dependencies": {}
 }
