@@ -716,7 +716,7 @@ var TOTVS;
         return TWebChannel;
     }());
     TWebChannel.instance = null;
-    TWebChannel.version = "0.0.6";
+    TWebChannel.version = "0.0.7";
     TWebChannel.BLUETOOTH_FEATURE = 1;
     TWebChannel.NFC_FEATURE = 2;
     TWebChannel.WIFI_FEATURE = 3;
