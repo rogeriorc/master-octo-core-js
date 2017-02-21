@@ -1,6 +1,6 @@
 {
   "name": "master-octo-core-js",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "license": "MIT",
   "main": "./master-octo-core.js",
   "ignore": [],
